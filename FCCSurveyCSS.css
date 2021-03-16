@@ -1,0 +1,56 @@
+body {
+    background-color: lightblue; 
+  }
+  
+  #title {
+    text-align:center; 
+  }
+  #description { 
+    padding-top: 10px;
+    padding-bottom: 40px;
+    text-align: center;
+  }
+  #survey-form {
+    text-align: center;
+    width: 450px;
+    margin: auto;
+    border-style: solid;
+    border-radius: 8px;
+    border-color: darkmagenta;
+    padding: 50px;
+  }
+  #name {
+    margin: 8px;
+    margin-top: -5px;
+  }
+  #email {
+    margin: 8px;
+  }
+  #number {
+    margin: 10px;  
+    width: 12%
+  }
+  #dropdown {
+    margin: 10px;
+  }
+  
+  #gender {
+    padding-bottom: 15px;
+  }
+  
+  #area {
+    display: block;
+    padding-bottom: 15px;
+    }
+  
+  #party {
+    margin-bottom: 15px;
+  }
+  
+  #submit {
+    margin-top: 10px;
+  }
+  textarea {
+    width: 70%;
+    height: 70px;
+  }
